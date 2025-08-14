@@ -7,4 +7,4 @@ Makes a Roblox account using a SOCKS5 / SOCKS4 proxy.
   
 # Errors You May Get
 - `[!] Captcha required. Switch proxies to continue.` This means you have to switch proxy, as Roblox returned a captcha (indicating failure)
-- `[-] Error: (reason)` Read this error and see if you can debug it yourself. If you cannot debug it yourself, open an [issue.](https://github.com/hw630590/roblox-acc-gen/issues)
+- `[-] Error: Roblox.com is not available.` Basicially means your proxy has blocked the site (for some reason?)
