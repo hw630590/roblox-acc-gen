@@ -8,3 +8,4 @@ Makes a Roblox account using a SOCKS5 / SOCKS4 proxy.
 # Errors You May Get
 - `[!] Captcha required. Switch proxies to continue.` This means you have to switch proxy, as Roblox returned a captcha (indicating failure)
 - `[-] Error: Roblox.com is not available.` Basicially means your proxy has blocked the site (for some reason?)
+- `Error: Client network socket disconnected before secure TLS connection was established.` The proxy you were using may have gone down, or it's just a network issue.
